@@ -6,7 +6,7 @@ template:
   name: test-course-2
 before:
   - type: createIssue
-    title: Welcome!
+    title: Welcome !
     body: new-issue.md
 steps:
   - title: First step
